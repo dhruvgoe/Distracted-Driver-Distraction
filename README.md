@@ -14,6 +14,7 @@ This project focuses on detecting distracted driving behaviors using machine lea
 - The dataset for this project is sourced from **Kaggle**.
 - It consists of **labeled images of drivers** engaged in different activities while driving.
 - The dataset is categorized into **10 distinct classes**, each representing a unique driving behavior.
+- This Repository doesn't contain Dataset due to very large size, if required dataset can bbe accessed from kaggle: https://www.kaggle.com/code/ekansh2702/distracted-driver-project/input
 
 ## 🏗️ Model Architecture & Approach
 This project employs a combination of **deep learning** and **machine learning** techniques:
